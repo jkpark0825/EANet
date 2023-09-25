@@ -1,6 +1,6 @@
 # EANet
 
-# Our code and pretrained model will be made available to the public until the beginning of ICCV. We thank for your interest.
+# Our code and pretrained model will be made available to the public until the beginning of ICCV 2023. We thank for your interest.
 ![alt text](model.png)
 
 ### Abstract
