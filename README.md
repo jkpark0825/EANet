@@ -41,4 +41,4 @@ Prepare the cropped hand image (example.png), then run
 ```bash
 python demo.py --gpu 0,1,2,3 --test_epoch 29 --input example_image1.png
 ```
-![alt text](images/demo_result.png)
+![alt text](demo_example.png)
