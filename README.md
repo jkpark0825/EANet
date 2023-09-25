@@ -38,5 +38,5 @@ python test.py --gpu 0,1,2,3 --test_epoch 29
 #### demo
 Prepare the cropped hand image (example.png), then run
 ```bash
-python demo.py --gpu 0,1,2,3 --input example.png
+python demo.py --gpu 0,1,2,3 --test_epoch 29 --input example_image1.png
 ```
