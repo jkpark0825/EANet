@@ -1,6 +1,6 @@
 # EANet
 
-# Our code and pretrained model will be made available to the public until the beginning of ICCV 2023. We thank for your interest.
+## This repository is an official implementation of the paper Extract and Adaptation Network for 3D Interacting Hand Mesh Recovery (ICCVW 2023)".
 ![alt text](model.png)
 
 ### Abstract
