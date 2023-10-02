@@ -24,7 +24,9 @@ pip install -r requirements.txt
 - Prepare the training and testing dataset. (https://mks0601.github.io/InterHand2.6M/)
 
 #### Training
-If you prefer not to train the model, you can simply obtain the pretrained model by downloading it from this link: xxx
+If you prefer not to train the model, you can simply obtain the pretrained model by downloading it from this link:
+https://drive.google.com/file/d/1Q7f4txLvvKVkbMZEJC-qD0DvDUbvk-tI/view?usp=sharing
+
 Else, run the training code
 ```bash
 python train.py --gpu 0,1,2,3
