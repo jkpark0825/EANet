@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 #### Training
 If you prefer not to train the model, you can simply obtain the pretrained model by downloading it from this link:
-https://drive.google.com/file/d/1Q7f4txLvvKVkbMZEJC-qD0DvDUbvk-tI/view?usp=sharing
+https://drive.google.com/file/d/14veExC7JG0jj1fXfIF0hz3dnxs7LqLXk/view?usp=sharing
 
 Else, run the training code
 ```bash
